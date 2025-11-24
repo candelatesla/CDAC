@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+# Virtual Science Practical Simulator (C-DAC) 🔬
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**A dynamic educational simulation platform developed for the Government of India's Centre for Development of Advanced Computing (C-DAC).**
 
-## Available Scripts
+[cite_start]This project was hosted on the **‘Vidyakash’** platform, serving over **2 million high school students** across India to make complex scientific concepts more accessible through interactive learning[cite: 25].
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This application serves as a virtual laboratory, allowing students to perform science practicals digitally. [cite_start]It features structured user onboarding, interactive virtual lab modules, and integrated quizzes to reinforce learning outcomes[cite: 22, 24].
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Key Features
+* [cite_start]**Interactive Simulations:** Virtual lab modules that replicate real-world science practicals[cite: 22].
+* [cite_start]**Dynamic Visualizations:** High-quality animations using FlareJS and Rive to explain complex concepts[cite: 23].
+* [cite_start]**Student Assessment:** Integrated quizzes to test knowledge retention after experiments[cite: 24].
+* [cite_start]**Structured Onboarding:** distinct user flows to guide students through the platform[cite: 24].
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Tech Stack
 
-### `npm run build`
+* [cite_start]**Frontend:** ReactJS [cite: 23]
+* [cite_start]**Animations:** FlareJS, Rive Animations [cite: 23]
+* [cite_start]**Platform:** Hosted on Vidyakash (Govt. of India) [cite: 25]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📦 Installation & Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally, follow these steps:
 
-### `npm run eject`
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/candelatesla/CDAC.git](https://github.com/candelatesla/CDAC.git)
+    cd CDAC
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3.  **Run the Application**
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
+    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🤝 Contributing
 
-## Learn More
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# 1. Fork the Project
+# 2. Create your Feature Branch
+git checkout -b feature/AmazingFeature
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 3. Commit your Changes
+git commit -m 'Add some AmazingFeature'
 
-### Code Splitting
+# 4. Push to the Branch
+git push origin feature/AmazingFeature
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# 5. Open a Pull Request
+```
+-----
 
-### Analyzing the Bundle Size
+### 👨‍💻 Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  * **Yash Chetan Doshi** 
+  * **Krisha Borana**
+  * **Merul Shah**
+  * **Khushi Shah**
