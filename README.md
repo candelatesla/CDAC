@@ -2,27 +2,27 @@
 
 **A dynamic educational simulation platform developed for the Government of India's Centre for Development of Advanced Computing (C-DAC).**
 
-[cite_start]This project was hosted on the **‘Vidyakash’** platform, serving over **2 million high school students** across India to make complex scientific concepts more accessible through interactive learning[cite: 25].
+This project was hosted on the **‘Vidyakash’** platform, serving over **2 million high school students** across India to make complex scientific concepts more accessible through interactive learning.
 
 ---
 
 ## 🚀 Overview
 
-This application serves as a virtual laboratory, allowing students to perform science practicals digitally. [cite_start]It features structured user onboarding, interactive virtual lab modules, and integrated quizzes to reinforce learning outcomes[cite: 22, 24].
+This application serves as a virtual laboratory, allowing students to perform science practicals digitally. It features structured user onboarding, interactive virtual lab modules, and integrated quizzes to reinforce learning outcomes.
 
 ### Key Features
-* [cite_start]**Interactive Simulations:** Virtual lab modules that replicate real-world science practicals[cite: 22].
-* [cite_start]**Dynamic Visualizations:** High-quality animations using FlareJS and Rive to explain complex concepts[cite: 23].
-* [cite_start]**Student Assessment:** Integrated quizzes to test knowledge retention after experiments[cite: 24].
-* [cite_start]**Structured Onboarding:** distinct user flows to guide students through the platform[cite: 24].
+* **Interactive Simulations:** Virtual lab modules that replicate real-world science practicals.
+* **Dynamic Visualizations:** High-quality animations using FlareJS and Rive to explain complex concepts.
+* **Student Assessment:** Integrated quizzes to test knowledge retention after experiments.
+* **Structured Onboarding:** distinct user flows to guide students through the platform.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* [cite_start]**Frontend:** ReactJS [cite: 23]
-* [cite_start]**Animations:** FlareJS, Rive Animations [cite: 23]
-* [cite_start]**Platform:** Hosted on Vidyakash (Govt. of India) [cite: 25]
+* **Frontend:** ReactJS 
+* **Animations:** FlareJS, Rive Animations 
+* **Platform:** Hosted on Vidyakash (Govt. of India)
 
 ---
 
@@ -78,3 +78,6 @@ git push origin feature/AmazingFeature
   * **Krisha Borana**
   * **Merul Shah**
   * **Khushi Shah**
+  * **Dr. Vinaya Sawant**
+  * **Prof. Prachi Tawde**
+  * **Dr. M Sasikumar**
